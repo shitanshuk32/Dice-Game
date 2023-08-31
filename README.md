@@ -1,10 +1,10 @@
 # Dice Game
 
+<img width="854" alt="236659200-8ba6c2dc-8815-46ed-bf3e-f873da7a6064" src="https://github.com/shitanshuk32/Dice-Game/assets/86796224/4c875f27-f041-4d4c-85dc-08071008a6df">
+
 ## Description
 
 Dice Game is a simple web application that simulates rolling dice. It's a fun and interactive way to simulate the experience of rolling dice without needing actual physical dice.
-
-<img width="854" alt="236659200-8ba6c2dc-8815-46ed-bf3e-f873da7a6064" src="https://github.com/shitanshuk32/Dice-Game/assets/86796224/4c875f27-f041-4d4c-85dc-08071008a6df">
 
 ## Table of Contents
 
